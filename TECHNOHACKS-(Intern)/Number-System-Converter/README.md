@@ -18,4 +18,7 @@ The `validate_number_system` function checks if a given string is a valid number
 
 The convert_base_to_decimal function converts a number from any given base to its decimal (base 10) string representation.
 
+## Sample Output
+
+https://github.com/MahmoudAbdul-kareem/C_Projects/assets/131891535/34a5f7cc-bee6-4a7d-9f29-d88f177319c6
 
