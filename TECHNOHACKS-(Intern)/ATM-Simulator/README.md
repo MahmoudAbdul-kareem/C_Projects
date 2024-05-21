@@ -16,3 +16,8 @@ This project simulates an ATM machine with basic functionalities such as balance
 
 4. **Cash Deposition**
     - Enables the user to deposit a specified amount of money into their account.
+
+## Sample Run
+
+https://github.com/MahmoudAbdul-kareem/C_Projects/assets/131891535/d527dbcd-f038-4f38-af2e-4800c49995df
+
