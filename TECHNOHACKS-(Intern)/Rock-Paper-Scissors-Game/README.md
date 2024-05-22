@@ -32,3 +32,5 @@ This will compile the app.c and game.c files into an executable named rock_paper
 
 ## Sample run
 
+https://github.com/MahmoudAbdul-kareem/C_Projects/assets/131891535/816f9714-707c-4f75-9106-f61d2db706a4
+
